@@ -1,6 +1,6 @@
 # Brick Breaker
 
-A dependency-free Flutter brick breaker starter.
+
 
 ## Run it
 
